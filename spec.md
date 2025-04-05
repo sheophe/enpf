@@ -1,6 +1,8 @@
-# Enhanced Natural Prompting Framework (ENPF) v1.0
+---
+icon: books
+---
 
-You can download this document as a [raw Markdown file](https://raw.githubusercontent.com/sheophe/enpf/master/Enhancled%20Natural%20Prompting%20Framework%20(ENPF)%20v1.0.md).
+# Enhanced Natural Prompting Framework (ENPF) v1.0
 
 ## 1. Introduction
 
@@ -8,12 +10,12 @@ The Enhanced Natural Prompting Framework (ENPF) provides a flexible, practical a
 
 ### 1.1 Design Principles
 
-- **Leverage existing LLM capabilities** rather than reinventing them
-- **Balance structure with naturalness** to avoid triggering mechanical responses
-- **Scalable complexity** that can be simple for basic needs but expand for complex tasks
-- **Focus on semantic clarity** over syntactic formality
-- **Practical usability** with minimal learning curve
-- **Non-restrictive guidance** that suggests rather than enforces patterns
+* **Leverage existing LLM capabilities** rather than reinventing them
+* **Balance structure with naturalness** to avoid triggering mechanical responses
+* **Scalable complexity** that can be simple for basic needs but expand for complex tasks
+* **Focus on semantic clarity** over syntactic formality
+* **Practical usability** with minimal learning curve
+* **Non-restrictive guidance** that suggests rather than enforces patterns
 
 ### 1.2 Philosophy
 
@@ -241,21 +243,21 @@ Please focus particularly on database query performance and provide specific opt
 
 ### 5.1 When to Use Structure
 
-- Use more structure for technical, analytical, or step-by-step tasks
-- Use less structure for creative, narrative, or subjective responses
-- Match the level of formality to the task complexity
+* Use more structure for technical, analytical, or step-by-step tasks
+* Use less structure for creative, narrative, or subjective responses
+* Match the level of formality to the task complexity
 
 ### 5.2 Effective Combinations
 
-- Combine `#CONCEPT` with `#ANALOGY` to clarify complex ideas
-- Pair `#STEPS` with `#CRITERIA` for guided problem-solving
-- Use `#APPROACH` with `#CONSTRAINTS` to focus solutions
+* Combine `#CONCEPT` with `#ANALOGY` to clarify complex ideas
+* Pair `#STEPS` with `#CRITERIA` for guided problem-solving
+* Use `#APPROACH` with `#CONSTRAINTS` to focus solutions
 
 ### 5.3 Progressive Disclosure
 
-- Start with simpler constructs and add complexity as needed
-- Introduce specialized elements only when basic ones are insufficient
-- Build on previously established concepts rather than redefining them
+* Start with simpler constructs and add complexity as needed
+* Introduce specialized elements only when basic ones are insufficient
+* Build on previously established concepts rather than redefining them
 
 ## 6. Examples
 
@@ -357,67 +359,67 @@ While users are free to create their own hashtags as needed, the following curat
 
 #### Knowledge Markers
 
-- `#CONCEPT` — Define or reference a key concept
-- `#DOMAIN` — Establish the knowledge domain or field
-- `#TERMINOLOGY` — Define specific terms
-- `#CONTEXT` — Set background information
-- `#DEFINE` — Provide explicit definitions
-- `#KNOWLEDGE` — Specify relevant knowledge areas
+* `#CONCEPT` — Define or reference a key concept
+* `#DOMAIN` — Establish the knowledge domain or field
+* `#TERMINOLOGY` — Define specific terms
+* `#CONTEXT` — Set background information
+* `#DEFINE` — Provide explicit definitions
+* `#KNOWLEDGE` — Specify relevant knowledge areas
 
 #### Structural Elements
 
-- `#STEPS` — Ordered sequence of actions or procedures
-- `#LIST` — Unordered collection of items
-- `#CRITERIA` — Conditions for evaluation or decision making
-- `#STRUCTURE` — Define document or response organization
-- `#SECTION` — Demarcate major content sections
-- `#FORMAT` — Specify output formatting requirements
+* `#STEPS` — Ordered sequence of actions or procedures
+* `#LIST` — Unordered collection of items
+* `#CRITERIA` — Conditions for evaluation or decision making
+* `#STRUCTURE` — Define document or response organization
+* `#SECTION` — Demarcate major content sections
+* `#FORMAT` — Specify output formatting requirements
 
 #### Control Directives
 
-- `#APPROACH` — Method or angle to tackle a problem
-- `#CONSTRAINTS` — Limitations or boundaries
-- `#EMPHASIS` — Aspects deserving special attention
-- `#AVOID` — Things to exclude or prevent
-- `#INCLUDE` — Elements that must be incorporated
-- `#STYLE` — Tone, voice, or writing style guidance
+* `#APPROACH` — Method or angle to tackle a problem
+* `#CONSTRAINTS` — Limitations or boundaries
+* `#EMPHASIS` — Aspects deserving special attention
+* `#AVOID` — Things to exclude or prevent
+* `#INCLUDE` — Elements that must be incorporated
+* `#STYLE` — Tone, voice, or writing style guidance
 
 #### Reasoning Guidance
 
-- `#REASONING` — Type of logical approach to use
-- `#PERSPECTIVE` — Viewpoint to consider
-- `#ANALOGY` — Comparative explanations
-- `#EXAMPLE` — Illustrative instances
-- `#COUNTEREXAMPLE` — Contrasting cases
-- `#TRADEOFF` — Balancing competing factors
+* `#REASONING` — Type of logical approach to use
+* `#PERSPECTIVE` — Viewpoint to consider
+* `#ANALOGY` — Comparative explanations
+* `#EXAMPLE` — Illustrative instances
+* `#COUNTEREXAMPLE` — Contrasting cases
+* `#TRADEOFF` — Balancing competing factors
 
 #### Advanced Elements
 
-- `#FOCUS_ON` — Direct attention to specific elements
-- `#COMPARE` — Analyze similarities and differences
-- `#HIGHLIGHT` — Emphasize important aspects
-- `#REFLECTION` — Meta-cognitive consideration
-- `#CONFIDENCE` — Expression of certainty levels
-- `#ALTERNATIVES` — Multiple possible approaches
-- `#SCENARIO` — Hypothetical situation analysis
+* `#FOCUS_ON` — Direct attention to specific elements
+* `#COMPARE` — Analyze similarities and differences
+* `#HIGHLIGHT` — Emphasize important aspects
+* `#REFLECTION` — Meta-cognitive consideration
+* `#CONFIDENCE` — Expression of certainty levels
+* `#ALTERNATIVES` — Multiple possible approaches
+* `#SCENARIO` — Hypothetical situation analysis
 
 #### Process Flow
 
-- `#PHASE` — Sequential stages of a larger process
-- `#TEMPLATE` — Reusable structure
-- `#FILL` — Supply content for templates
-- `#IF_THEN` — Conditional logic
-- `#REPEAT` — Iterative processes
-- `#REFERENCE` — Cross-reference to other content
+* `#PHASE` — Sequential stages of a larger process
+* `#TEMPLATE` — Reusable structure
+* `#FILL` — Supply content for templates
+* `#IF_THEN` — Conditional logic
+* `#REPEAT` — Iterative processes
+* `#REFERENCE` — Cross-reference to other content
 
 Users should feel free to create additional hashtags as needed for their specific use cases. The framework is intentionally flexible and extensible. The goal is to provide useful semantics that help structure thinking, not to restrict expression or creativity.
 
 ### 7.4 Best Practices
 
-- Keep marker names clear and intuitive
-- Use consistent capitalization and formatting
-- Provide examples when introducing new concepts
-- Test prompts with multiple LLMs to ensure compatibility
-- Combine complementary hashtags rather than creating overly specific ones
-- Use the minimum structure needed for clarity
-- Integrate hashtags naturally within conversational text
+* Keep marker names clear and intuitive
+* Use consistent capitalization and formatting
+* Provide examples when introducing new concepts
+* Test prompts with multiple LLMs to ensure compatibility
+* Combine complementary hashtags rather than creating overly specific ones
+* Use the minimum structure needed for clarity
+* Integrate hashtags naturally within conversational text
