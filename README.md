@@ -340,7 +340,7 @@ Claude Desktop offers a particularly effective way to implement this LLM-to-LLM 
 4. **Save Prompts for Reuse:** Save particularly effective ENPF prompts that Claude creates for you, either in the conversation or in your own templates library.
 5. **Use with Other AI Systems:** Copy the finalized ENPF prompts to use with other AI systems as needed.
 
-This approach effectively turns Claude Desktop into your personal "ENPF prompt factory" - you maintain the master framework in your project context, while generating specialized implementations for different needs. The persistent context ensures Claude always has the full ENPF specification available when crafting new prompts.
+This approach effectively turns Claude Desktop into your personal "ENPF prompt factory" — you maintain the master framework in your project context, while generating specialized implementations for different needs. The persistent context ensures Claude always has the full ENPF specification available when crafting new prompts.
 
 ## Conclusion: The Spirit of ENPF
 

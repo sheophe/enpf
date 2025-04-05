@@ -19,7 +19,7 @@ The Enhanced Natural Prompting Framework (ENPF) provides a flexible, practical a
 
 ENPF is built on the understanding that LLMs already possess sophisticated language understanding capabilities. Rather than creating a rigid programming-like syntax that the model must interpret, ENPF provides semantic signposts that work with the model's existing knowledge.
 
-The framework is intentionally permissive - users should feel free to create their own markers and structures as needed. The recommended hashtags provide a consistent mental model for effective communication, not a closed set of allowed commands.
+The framework is intentionally permissive — users should feel free to create their own markers and structures as needed. The recommended hashtags provide a consistent mental model for effective communication, not a closed set of allowed commands.
 
 Remember that the goal is enhanced communication, not programming. The hashtags serve as clear semantic indicators that help structure thinking and guide responses, but they operate through the model's natural language understanding rather than as formal parsing rules.
 
@@ -300,7 +300,7 @@ I need an explanation of quantum computing for executives.
 Computing using quantum-mechanical phenomena like superposition and entanglement.
 
 #ANALOGY: Quantum bits → Probability coins
-While classical bits are like coins showing either heads or tails, quantum bits are like coins spinning in the air - representing many possibilities at once until measured.
+While classical bits are like coins showing either heads or tails, quantum bits are like coins spinning in the air — representing many possibilities at once until measured.
 
 #APPROACH: Executive Briefing
 Focus on business implications rather than technical details.
@@ -357,58 +357,58 @@ While users are free to create their own hashtags as needed, the following curat
 
 #### Knowledge Markers
 
-- `#CONCEPT` - Define or reference a key concept
-- `#DOMAIN` - Establish the knowledge domain or field
-- `#TERMINOLOGY` - Define specific terms
-- `#CONTEXT` - Set background information
-- `#DEFINE` - Provide explicit definitions
-- `#KNOWLEDGE` - Specify relevant knowledge areas
+- `#CONCEPT` — Define or reference a key concept
+- `#DOMAIN` — Establish the knowledge domain or field
+- `#TERMINOLOGY` — Define specific terms
+- `#CONTEXT` — Set background information
+- `#DEFINE` — Provide explicit definitions
+- `#KNOWLEDGE` — Specify relevant knowledge areas
 
 #### Structural Elements
 
-- `#STEPS` - Ordered sequence of actions or procedures
-- `#LIST` - Unordered collection of items
-- `#CRITERIA` - Conditions for evaluation or decision making
-- `#STRUCTURE` - Define document or response organization
-- `#SECTION` - Demarcate major content sections
-- `#FORMAT` - Specify output formatting requirements
+- `#STEPS` — Ordered sequence of actions or procedures
+- `#LIST` — Unordered collection of items
+- `#CRITERIA` — Conditions for evaluation or decision making
+- `#STRUCTURE` — Define document or response organization
+- `#SECTION` — Demarcate major content sections
+- `#FORMAT` — Specify output formatting requirements
 
 #### Control Directives
 
-- `#APPROACH` - Method or angle to tackle a problem
-- `#CONSTRAINTS` - Limitations or boundaries
-- `#EMPHASIS` - Aspects deserving special attention
-- `#AVOID` - Things to exclude or prevent
-- `#INCLUDE` - Elements that must be incorporated
-- `#STYLE` - Tone, voice, or writing style guidance
+- `#APPROACH` — Method or angle to tackle a problem
+- `#CONSTRAINTS` — Limitations or boundaries
+- `#EMPHASIS` — Aspects deserving special attention
+- `#AVOID` — Things to exclude or prevent
+- `#INCLUDE` — Elements that must be incorporated
+- `#STYLE` — Tone, voice, or writing style guidance
 
 #### Reasoning Guidance
 
-- `#REASONING` - Type of logical approach to use
-- `#PERSPECTIVE` - Viewpoint to consider
-- `#ANALOGY` - Comparative explanations
-- `#EXAMPLE` - Illustrative instances
-- `#COUNTEREXAMPLE` - Contrasting cases
-- `#TRADEOFF` - Balancing competing factors
+- `#REASONING` — Type of logical approach to use
+- `#PERSPECTIVE` — Viewpoint to consider
+- `#ANALOGY` — Comparative explanations
+- `#EXAMPLE` — Illustrative instances
+- `#COUNTEREXAMPLE` — Contrasting cases
+- `#TRADEOFF` — Balancing competing factors
 
 #### Advanced Elements
 
-- `#FOCUS_ON` - Direct attention to specific elements
-- `#COMPARE` - Analyze similarities and differences
-- `#HIGHLIGHT` - Emphasize important aspects
-- `#REFLECTION` - Meta-cognitive consideration
-- `#CONFIDENCE` - Expression of certainty levels
-- `#ALTERNATIVES` - Multiple possible approaches
-- `#SCENARIO` - Hypothetical situation analysis
+- `#FOCUS_ON` — Direct attention to specific elements
+- `#COMPARE` — Analyze similarities and differences
+- `#HIGHLIGHT` — Emphasize important aspects
+- `#REFLECTION` — Meta-cognitive consideration
+- `#CONFIDENCE` — Expression of certainty levels
+- `#ALTERNATIVES` — Multiple possible approaches
+- `#SCENARIO` — Hypothetical situation analysis
 
 #### Process Flow
 
-- `#PHASE` - Sequential stages of a larger process
-- `#TEMPLATE` - Reusable structure
-- `#FILL` - Supply content for templates
-- `#IF_THEN` - Conditional logic
-- `#REPEAT` - Iterative processes
-- `#REFERENCE` - Cross-reference to other content
+- `#PHASE` — Sequential stages of a larger process
+- `#TEMPLATE` — Reusable structure
+- `#FILL` — Supply content for templates
+- `#IF_THEN` — Conditional logic
+- `#REPEAT` — Iterative processes
+- `#REFERENCE` — Cross-reference to other content
 
 Users should feel free to create additional hashtags as needed for their specific use cases. The framework is intentionally flexible and extensible. The goal is to provide useful semantics that help structure thinking, not to restrict expression or creativity.
 
