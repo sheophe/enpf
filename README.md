@@ -1,6 +1,6 @@
 # The Human-Friendly Guide to Enhanced Natural Prompting Framework (ENPF)
 
-![A person looking confused at a complex map](images/confused_map.png){: height="200px"}
+<img src="images/confused_map.png" height="450px" alt="A person looking confused at a complex map" style="display: block; margin: 0 auto 30px;">
 
 ## Why You Might Care About ENPF
 
@@ -57,7 +57,7 @@ That's it! You've just used ENPF. The hashtags simply help organize your thinkin
 
 ### Reverse Prompting: Let the AI Ask You Questions
 
-![Reverse prompting illustration](images/reverse_prompting.png){: height="200px"}
+<img src="images/reverse_prompting.png" height="450px" alt="Reverse prompting illustration" style="display: block; margin: 0 auto 30px;">
 
 One of the most powerful approaches is "reverse prompting" — where you set up the AI to ask you targeted questions instead of immediately generating content.
 
@@ -75,7 +75,7 @@ This creates a collaborative experience where the AI helps draw out information 
 
 ### Progressive Disclosure: Building Complex Outputs in Stages
 
-![Progressive disclosure illustration](images/progressive_disclosure.png){: height="200px"}
+<img src="images/progressive_disclosure.png" height="450px" alt="Progressive disclosure illustration" style="display: block; margin: 0 auto 30px;">
 
 For complex projects, you can use ENPF to guide a step-by-step approach:
 
@@ -94,7 +94,7 @@ Once the outline is approved, we'll work through each section step-by-step.
 
 ### Multi-Perspective Analysis: Seeing All Angles
 
-![Multi-perspective analysis illustration](images/multi_perspective.png){: height="200px"}
+<img src="images/multi_perspective.png" height="450px" alt="Multi-perspective analysis illustration" style="display: block; margin: 0 auto 30px;">
 
 When you need to consider different viewpoints:
 
@@ -115,7 +115,7 @@ How will this affect my personal life and wellbeing?
 
 ### Concept Mapping: Exploring Connections
 
-![Concept mapping illustration](images/concept_mapping.png){: height="200px"}
+<img src="images/concept_mapping.png" height="450px" alt="Concept mapping illustration" style="display: block; margin: 0 auto 30px;">
 
 For understanding complex topics:
 
@@ -346,7 +346,7 @@ This approach effectively turns Claude Desktop into your personal "ENPF prompt f
 
 ## Conclusion: The Spirit of ENPF
 
-![A happy person successfully using AI](images/happy_user.png){: height="200px"}
+<img src="images/happy_user.png" height="450px" alt="A happy person successfully using AI" style="display: block; margin: 0 auto 30px;">
 
 The true power of ENPF isn't in the specific hashtags or structures — it's in the mindset of clear, organized communication with AI. The framework is intentionally flexible and human-friendly.
 
