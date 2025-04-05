@@ -1,6 +1,6 @@
 # The Human-Friendly Guide to Enhanced Natural Prompting Framework (ENPF)
 
-<img src="images/confused_map.png" height="450px" alt="A person looking confused at a complex map" style="display: block; margin: 0 auto 30px;">
+<figure><img src="images/confused_map.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Why You Might Care About ENPF
 
@@ -10,7 +10,7 @@ The Enhanced Natural Prompting Framework (ENPF) is designed to solve these probl
 
 ## What ENPF Can Do For You (Without the Jargon)
 
-<img src="images/features.png" height="450px" alt="ENPF features and benefits" style="display: block; margin: 0 auto 30px;">
+<figure><img src="images/features.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 1. Get More Precise Responses
 
@@ -59,7 +59,7 @@ That's it! You've just used ENPF. The hashtags simply help organize your thinkin
 
 ### Reverse Prompting: Let the AI Ask You Questions
 
-<img src="images/reverse_prompting.png" height="450px" alt="Reverse prompting illustration" style="display: block; margin: 0 auto 30px;">
+<figure><img src="images/reverse_prompting.png" alt="" width="375"><figcaption></figcaption></figure>
 
 One of the most powerful approaches is "reverse prompting" — where you set up the AI to ask you targeted questions instead of immediately generating content.
 
@@ -77,7 +77,7 @@ This creates a collaborative experience where the AI helps draw out information 
 
 ### Progressive Disclosure: Building Complex Outputs in Stages
 
-<img src="images/progressive_disclosure.png" height="450px" alt="Progressive disclosure illustration" style="display: block; margin: 0 auto 30px;">
+<figure><img src="images/progressive_disclosure.png" alt="" width="375"><figcaption></figcaption></figure>
 
 For complex projects, you can use ENPF to guide a step-by-step approach:
 
@@ -96,7 +96,7 @@ Once the outline is approved, we'll work through each section step-by-step.
 
 ### Multi-Perspective Analysis: Seeing All Angles
 
-<img src="images/multi_perspective.png" height="450px" alt="Multi-perspective analysis illustration" style="display: block; margin: 0 auto 30px;">
+<figure><img src="images/multi_perspective.png" alt="" width="375"><figcaption></figcaption></figure>
 
 When you need to consider different viewpoints:
 
@@ -117,7 +117,7 @@ How will this affect my personal life and wellbeing?
 
 ### Concept Mapping: Exploring Connections
 
-<img src="images/concept_mapping.png" height="450px" alt="Concept mapping illustration" style="display: block; margin: 0 auto 30px;">
+<figure><img src="images/concept_mapping.png" alt="" width="375"><figcaption></figcaption></figure>
 
 For understanding complex topics:
 
@@ -272,13 +272,9 @@ What do people most often regret or overlook?
 If you're still feeling intimidated, remember:
 
 1. **You can't break anything** — If you forget a hashtag or use the "wrong" one, the AI will still understand you.
-
 2. **It's just organized conversation** — ENPF is simply a way to organize your thoughts clearly.
-
 3. **Start with copying** — Feel free to copy examples and modify them until you're comfortable.
-
 4. **The payoff is immediate** — Even basic use of ENPF will noticeably improve AI responses.
-
 5. **It grows with you** — As you become more comfortable, you can add more sophisticated elements.
 
 ## Beyond the Basics: Growing Your ENPF Skills
@@ -348,7 +344,7 @@ This approach effectively turns Claude Desktop into your personal "ENPF prompt f
 
 ## Conclusion: The Spirit of ENPF
 
-<img src="images/happy_user.png" height="450px" alt="A happy person successfully using AI" style="display: block; margin: 0 auto 30px;">
+<figure><img src="images/happy_user.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The true power of ENPF isn't in the specific hashtags or structures — it's in the mindset of clear, organized communication with AI. The framework is intentionally flexible and human-friendly.
 
@@ -356,45 +352,45 @@ Remember that you're not programming the AI — you're having a more structured 
 
 Happy prompting!
 
----
+***
 
 ## Quick Reference: Popular ENPF Hashtags
 
 ### Setting the Stage
 
-- `#ROLE`: Who you want the AI to be
-- `#CONTEXT`: Background information
-- `#DOMAIN`: Field or subject area
-- `#AUDIENCE`: Who will read/use the output
+* `#ROLE`: Who you want the AI to be
+* `#CONTEXT`: Background information
+* `#DOMAIN`: Field or subject area
+* `#AUDIENCE`: Who will read/use the output
 
 ### Shaping the Approach
 
-- `#APPROACH`: Overall method or strategy
-- `#TONE`: Emotional feel or attitude
-- `#STRUCTURE`: How to organize the response
-- `#FORMAT`: Specific presentation format
+* `#APPROACH`: Overall method or strategy
+* `#TONE`: Emotional feel or attitude
+* `#STRUCTURE`: How to organize the response
+* `#FORMAT`: Specific presentation format
 
 ### Guiding the Thinking
 
-- `#REASONING`: How to think through the problem
-- `#PERSPECTIVE`: Viewpoint to consider
-- `#COMPARE`: Analyze similarities and differences
-- `#EMPHASIS`: What to focus on
+* `#REASONING`: How to think through the problem
+* `#PERSPECTIVE`: Viewpoint to consider
+* `#COMPARE`: Analyze similarities and differences
+* `#EMPHASIS`: What to focus on
 
 ### Defining Outputs
 
-- `#STEPS`: Ordered process or procedure
-- `#LIST`: Collection of related items
-- `#CRITERIA`: Standards for evaluation
-- `#CONSTRAINTS`: Limitations to work within
+* `#STEPS`: Ordered process or procedure
+* `#LIST`: Collection of related items
+* `#CRITERIA`: Standards for evaluation
+* `#CONSTRAINTS`: Limitations to work within
 
 ### Creative Elements
 
-- `#ANALOGY`: Explain using familiar comparisons
-- `#EXAMPLE`: Illustrative instances
-- `#CONCEPT`: Define or explain a key idea
-- `#SCENARIO`: Hypothetical situation
+* `#ANALOGY`: Explain using familiar comparisons
+* `#EXAMPLE`: Illustrative instances
+* `#CONCEPT`: Define or explain a key idea
+* `#SCENARIO`: Hypothetical situation
 
----
+***
 
 **Note on Creation**: This entire document was generated with Claude, and the images were created with ChatGPT. The Enhanced Natural Prompting Framework (ENPF) represents a collaborative effort between human guidance and AI capabilities, demonstrating the power of structured communication that the framework itself promotes.
