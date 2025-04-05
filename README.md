@@ -10,6 +10,8 @@ The Enhanced Natural Prompting Framework (ENPF) is designed to solve these probl
 
 ## What ENPF Can Do For You (Without the Jargon)
 
+<img src="images/features.png" height="450px" alt="ENPF features and benefits" style="display: block; margin: 0 auto 30px;">
+
 ### 1. Get More Precise Responses
 
 Instead of hoping the AI understands what you want, ENPF lets you clearly mark what's important.
