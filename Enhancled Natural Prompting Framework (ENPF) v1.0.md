@@ -1,7 +1,6 @@
 # Enhanced Natural Prompting Framework (ENPF) v1.0
 
-You can download this document as a raw Markdown file from GitHub:
-[ENPF v1.0 (Markdown)](https://raw.githubusercontent.com/sheophe/enpf/master/Enhancled%20Natural%20Prompting%20Framework%20(ENPF)%20v1.0.md)
+You can download this document as a [raw Markdown file](https://raw.githubusercontent.com/sheophe/enpf/master/Enhancled%20Natural%20Prompting%20Framework%20(ENPF)%20v1.0.md).
 
 ## 1. Introduction
 
