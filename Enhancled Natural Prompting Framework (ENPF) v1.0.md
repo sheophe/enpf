@@ -1,5 +1,8 @@
 # Enhanced Natural Prompting Framework (ENPF) v1.0
 
+You can download this document as a raw Markdown file from GitHub:
+[ENPF v1.0 (Markdown)](https://raw.githubusercontent.com/sheophe/enpf/master/Enhancled%20Natural%20Prompting%20Framework%20(ENPF)%20v1.0.md)
+
 ## 1. Introduction
 
 The Enhanced Natural Prompting Framework (ENPF) provides a flexible, practical approach to structured communication with Large Language Models (LLMs). ENPF leverages the innate capabilities of LLMs to understand natural language while providing just enough structure to guide responses effectively.
