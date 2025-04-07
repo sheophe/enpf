@@ -4,7 +4,7 @@ icon: message
 
 # Real-World Examples: ENPF in Action
 
-### Example 1: Getting Technical Help
+## Example 1: Getting Technical Help
 
 ```md
 I need to troubleshoot why my Python script is running slowly.
@@ -20,7 +20,7 @@ Help me identify the likely bottlenecks.
 #FORMAT: Provide code examples for improvements
 ```
 
-### Example 2: Creative Writing Guidance
+## Example 2: Creative Writing Guidance
 
 ```md
 I'm writing a short story and struggling with dialogue.
@@ -35,7 +35,7 @@ Rather than writing my story for me, show me examples of good dialogue and expla
 My characters all sound the same when they speak.
 ```
 
-### Example 3: Planning a Complex Project
+## Example 3: Planning a Complex Project
 
 ```md
 I need to plan my kitchen renovation.

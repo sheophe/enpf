@@ -4,7 +4,7 @@ icon: hat-wizard
 
 # Elegant Approaches: Creative Ways to Use ENPF
 
-### Reverse Prompting: Let the AI Ask You Questions
+## Reverse Prompting: Let the AI Ask You Questions
 
 <figure><img src="../images/reverse_prompting.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ I need a design for a fitness tracking app. Please start our consultation.
 
 This creates a collaborative experience where the AI helps draw out information you might not have thought to provide.
 
-### Progressive Disclosure: Building Complex Outputs in Stages
+## Progressive Disclosure: Building Complex Outputs in Stages
 
 <figure><img src="../images/progressive_disclosure.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ After gathering information, organize it into a structured business plan outline
 Once the outline is approved, we'll work through each section step-by-step.
 ```
 
-### Multi-Perspective Analysis: Seeing All Angles
+## Multi-Perspective Analysis: Seeing All Angles
 
 <figure><img src="../images/multi_perspective.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ How might this align with my long-term goals?
 How will this affect my personal life and wellbeing?
 ```
 
-### Concept Mapping: Exploring Connections
+## Concept Mapping: Exploring Connections
 
 <figure><img src="../images/concept_mapping.png" alt="" width="375"><figcaption></figcaption></figure>
 
