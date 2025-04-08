@@ -79,7 +79,7 @@ This technique is particularly useful for:
 Claude Desktop offers a particularly effective way to implement this LLM-to-LLM approach through its Projects feature:
 
 1. **Create an ENPF Project:** Create a new Project in Claude Desktop specifically for your ENPF templates.
-2. **Add ENPF to Context:** Use the context panel to add the ENPF specification found [here](https://raw.githubusercontent.com/sheophe/enpf/master/Enhancled%20Natural%20Prompting%20Framework%20\(ENPF\)%20v1.0.md). This puts the complete framework at Claude's fingertips for every conversation in your project.
+2. **Add ENPF to Context:** Use the context panel to add the ENPF specification found [here](https://raw.githubusercontent.com/sheophe/enpf/master/spec.md). This puts the complete framework at Claude's fingertips for every conversation in your project.
 3. **Generate Specialized Prompts:** Within this project, ask Claude to create specialized ENPF prompts for specific use cases, building on the framework in the context.
 4. **Save Prompts for Reuse:** Save particularly effective ENPF prompts that Claude creates for you, either in the conversation or in your own templates library.
 5. **Use with Other AI Systems:** Copy the finalized ENPF prompts to use with other AI systems as needed.
